@@ -1,3 +1,8 @@
+Notes from syipa
+semua route ui udah tinggal crud
+
+
+
 ###################
 What is CodeIgniter
 ###################
